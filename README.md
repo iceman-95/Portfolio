@@ -1,5 +1,3 @@
-# 👋 Giorgi Imerlishvili
-
 **PhD in Mathematics** | Researcher at A. Razmadze Mathematical Institute  
 Specializing in Harmonic Analysis, Function Spaces, Fractional Integrals
 
