@@ -94,7 +94,7 @@ A car price analyser using regression models:
 
 ## 🎯 Goals
 
-- Join a data science, backend, or R&D team  
+- Join a data analytics, data science, backend, or R&D team  
 - Build tools that connect research, code, and real-world insights  
 - Continue growing through collaborative open-source work  
-- Contribute to robust, explainable, and scalable systems
+- Contribute to robust, explainable, and scalable systems  
