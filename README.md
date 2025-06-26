@@ -3,9 +3,16 @@
 
 ---
 
+## 🎓 Education
+- **Ph.D. in Mathematics**, Georgian Technical University (2023)
+- **M.Sc. in Applied Mathematics**, Georgian Technical University (2019)
+- **B.Sc. in Mathematics**, Ivane Javakhishvili Tbilisi State University (2017)
+
+---
+
 ## 👋 About Me
 
-I'm a mathematician and researcher with 5+ years of hands-on programming experience. I specialize in building **production-ready applications** using **Python** for machine learning, data analysis, backend tools, and CLI systems. While Python is my main language, I’ve also worked with **JavaScript**. I use **Cursor** to speed up development while keeping my code structured, testable, and clean. It helps me focus more on logic, usability, and design while automating repetitive parts. Beyond technical skills, I'm a **friendly**, **curious**, and **highly motivated** person who enjoys working with others, learning new tools, and solving real-world problems through code. I'm used to both **teaching others** and **learning from teams**, and I adapt quickly to new environments.
+I'm a mathematician and researcher with 5+ years of hands-on programming experience. I specialise in building **production-ready applications** using **Python** for machine learning, data analysis, backend tools, and CLI systems. While Python is my main language, I’ve also worked with **JavaScript**. I use **Cursor** to speed up development while keeping my code structured, testable, and clean. It helps me focus more on logic, usability, and design while automating repetitive parts. Beyond technical skills, I'm a **friendly**, **curious**, and **highly motivated** person who enjoys working with others, learning new tools, and solving real-world problems through code. I'm used to both **teaching others** and **learning from teams**, and I adapt quickly to new environments.
 
 ---
 
