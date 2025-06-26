@@ -1,66 +1,85 @@
-**PhD in Mathematics** | Researcher at A. Razmadze Mathematical Institute  
-Specializing in Harmonic Analysis, Function Spaces, Fractional Integrals
+🎓 Ph.D. in Mathematics | 🧠 Software & Data Developer | 📊 ML · Python · SQL
+📍 Tbilisi, Georgia · 📧 imerlishvili18@gmail.com
 
----
+👋 About Me
+I'm a mathematician and researcher with 5+ years of hands-on programming experience. I specialise in building production-ready applications that merge machine learning, data analysis, and software development using Python, JavaScript, and SQL.
 
-## 🔬 About Me
+I regularly use Cursor, an AI-enhanced code editor, to speed up development while keeping my code structured, testable, and clean. It helps me focus more on logic, usability, and design while automating repetitive parts.
 
-I am a mathematical researcher focused on harmonic analysis, non-standard function spaces, and integral operators. I hold a PhD in Mathematics from Georgian Technical University and currently work as a researcher at the A. Razmadze Mathematical Institute of Ivane Javakhishvili Tbilisi State University.
+Beyond technical skills, I'm a friendly, curious, and highly motivated person who enjoys working with others, learning new tools, and solving real-world problems through code. I'm used to both teaching others and learning from teams, and I adapt quickly to new environments.
 
-My current interests include:
-- One-sided fractional and singular integral operators
-- Variable exponent and Morrey-type spaces
-- Weighted norm inequalities and trace estimates
+💼 What I Bring
+✅ Full pipeline ML & data projects with real deployment structure
+✅ Strong backend & CLI logic (MySQL, OOP, export/reporting systems)
+✅ Frontend JS (HTML5 Canvas game mechanics, player/enemy AI)
+✅ 5+ years coding (Python, JavaScript, SQL) + teaching experience
+✅ Clean, modular, and reusable code structure
 
----
+🧰 Skills
+Languages: Python, JavaScript (Canvas/DOM), SQL, LaTeX
+ML & Data Tools: scikit-learn, pandas, NumPy, matplotlib, seaborn
+Backend & DB: MySQL, mysql-connector, tabulate, file I/O
+Tools & Workflow: Git, GitHub, Jupyter, VS Code, Cursor (AI-first editor), modular CLI design
 
-## 📚 Education
+📁 Featured Projects
+🎮 Space Shooter Game (JavaScript + Canvas API)
+A full 2D browser-based arcade game:
 
-- **PhD in Mathematics** – Georgian Technical University, 2023  
-- **MSc in Applied Mathematics** – Georgian Technical University, 2019  
-- **BSc in Mathematics** – Ivane Javakhishvili Tbilisi State University, 2017  
+Player/enemy movement, bullets, scoring, and collision detection
 
----
+Boss fight mechanics with health bar and missile logic
 
-## 🧪 Research & Projects
+Pause/resume functionality and state tracking
 
-- **Principal Investigator:**  
-  *Fractional integral operators in Central Morrey spaces* (PHDF-22-6359)  
-  *Shota Rustaveli National Science Foundation of Georgia*
+Skills: Game logic · DOM events · JS animations · Canvas API
 
-- **Co-Performer:**  
-  - *Modern analysis on metric spaces and PDEs* (FR-18-2499)  
-  - *Integral Operators in Non-standard Function Spaces* (DI-18-118)
+📊 Salary Predictor (Python + ML + CLI)
+A robust, modular machine learning pipeline:
 
----
+Data loading, preprocessing, salary classification
 
-## 📝 Selected Publications
+Trains & compares 18+ ML models (regression & classification)
 
-- *One-sided Potentials in Weighted Central Morrey Spaces*, **J. Math. Sci.**, 2024  
-- *Weighted Inequalities for One-sided Multilinear Fractional Integrals*, **Positivity**, 2023  
-- *Trace Inequalities for Fractional Integrals in Central Morrey Spaces*, **Trans. A. Razmadze Math. Inst.**, 2022  
-- [View full list on Google Scholar](https://scholar.google.com/)
+Auto-visualisation of salary trends, company size, experience impact
 
----
+Interactive CLI for real-time salary prediction based on user input
 
-## 🎤 Conference Talks
+Skills: scikit-learn · matplotlib · modular ML app · CLI interfaces
 
-- *One-sided fractional integrals in Morrey and vanishing Morrey spaces*, MICOPAM 2022, Turkey  
-- *Weighted norm inequalities for one-sided multilinear fractional integrals*, GMU 2023, Georgia  
-- *On a weighted inequality for fractional integrals*, 8ECM 2021, Slovenia  
+👥 Employee Management System (Python + MySQL)
+A terminal-based CRUD system for managing employees:
 
----
+Add, update, delete, search, promote, export as .sql
 
-## 👨‍🏫 Teaching Experience
+Auto-generates IDs, emails, phone numbers
 
-- Lecturer, Georgian Technical University & International Black Sea University  
-- TA / Assistant roles at Kutaisi International University and SDSU Georgia  
-- Courses taught: Calculus, Real Analysis, Functional Analysis, Linear Algebra
+Exports data with schema, views, and stored procedures
 
----
+Skills: MySQL · Python DB API · data export · console UI · tabulate
 
-## 📫 Contact
+🚗 Car Price Prediction (Python + ML)
+A car price analyser using regression models:
 
-- 📧 Email: imerlishvili18@gmail.com  
-- 🌍 Location: Tbilisi, Georgia  
-- 🌐 Languages: Georgian (C2), English (C1), Russian (B2)
+Data preprocessing and feature engineering
+
+Regression modelling (Linear, Ridge, SVR, etc.)
+
+Visualisations for correlation, distribution, and feature impact
+
+Skills: pandas · scikit-learn · exploratory data analysis · regression
+
+🌍 Languages & Communication
+Georgian: Native speaker
+
+English: Fluent
+
+Russian: Upper-intermediate (B2)
+
+🎯 Goals
+Join a data science, backend, or R&D team
+
+Build tools that connect research, code, and real-world insights
+
+Continue growing through collaborative open-source work
+
+Contribute to robust, explainable, and scalable systems
