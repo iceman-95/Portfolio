@@ -1,5 +1,11 @@
-🎓 Ph.D. in Mathematics | 🧠 Software & Data Developer | 📊 ML · Python · SQL  
+🎓 Ph.D. in Mathematics | 🧑‍💻 Software & Data Developer | 📊 ML · Python · SQL  
 📍 Tbilisi, Georgia · 📧 imerlishvili18@gmail.com
+
+---
+
+## 👋 About Me
+
+I'm a mathematician and researcher with 5+ years of hands-on programming experience. I specialise in building **production-ready applications** using **Python** for machine learning, data analysis, backend tools, and CLI systems. While Python is my main language, I’ve also worked with **JavaScript**. I use **Cursor** to speed up development while keeping my code structured, testable, and clean. It helps me focus more on logic, usability, and design while automating repetitive parts. Beyond technical skills, I'm a **friendly**, **curious**, and **highly motivated** person who enjoys working with others, learning new tools, and solving real-world problems through code. I'm used to both **teaching others** and **learning from teams**, and I adapt quickly to new environments.
 
 ---
 
@@ -10,13 +16,17 @@
 
 ---
 
-## 👋 About Me
+## 💼 Professional Experience
 
-I'm a mathematician and researcher with 5+ years of hands-on programming experience. I specialise in building **production-ready applications** using **Python** for machine learning, data analysis, backend tools, and CLI systems. While Python is my main language, I’ve also worked with **JavaScript**. I use **Cursor** to speed up development while keeping my code structured, testable, and clean. It helps me focus more on logic, usability, and design while automating repetitive parts. Beyond technical skills, I'm a **friendly**, **curious**, and **highly motivated** person who enjoys working with others, learning new tools, and solving real-world problems through code. I'm used to both **teaching others** and **learning from teams**, and I adapt quickly to new environments.
+- **A. Razmadze Mathematical Institute of TSU**, Researcher (2022–present)
+- **International Black Sea University**, Invited Professor (2023)
+- **Georgian Technical University**, Invited Professor (2023)
+- **Kutaisi International University**, Professor’s Assistant (2020–2023)
+- **San Diego State University Georgia**, Teaching Assistant (2019–2021)
 
 ---
 
-## 💼 What I Bring
+## 🧠 What I Bring
 
 ✅ Full pipeline ML & data projects with real deployment structure  
 ✅ Strong backend & CLI logic (MySQL, OOP, export/reporting systems)  
