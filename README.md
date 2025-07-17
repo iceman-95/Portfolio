@@ -1,100 +1,223 @@
-🎓 Ph.D. in Mathematics | 🧑‍💻 Software & Data Developer | 📊 ML · Python · SQL  
-📍 Tbilisi, Georgia · 📧 imerlishvili18@gmail.com
+# 🏦 Global Trust Bank - Responsive Banking Dashboard
 
----
+A modern, responsive banking dashboard built with pure HTML and CSS. This project demonstrates a professional banking interface with real transaction data, spending analytics, and a fully responsive design that works across all devices.
 
-## 👋 About Me
+## ✨ Features
 
-I'm a mathematician and researcher with 5+ years of hands-on programming experience. I specialise in building **production-ready applications** using **Python** for machine learning, data analysis, backend tools, and CLI systems. While Python is my main language, I’ve also worked with **JavaScript**. I use **Cursor** to speed up development while keeping my code structured, testable, and clean. It helps me focus more on logic, usability, and design while automating repetitive parts. Beyond technical skills, I'm a **friendly**, **curious**, and **highly motivated** person who enjoys working with others, learning new tools, and solving real-world problems through code. I'm used to both **teaching others** and **learning from teams**, and I adapt quickly to new environments.
+### 🎨 **Modern Design**
+- Clean, professional banking interface
+- Dark/Light theme toggle
+- Smooth animations and hover effects
+- Professional color scheme and typography
+- Card-based layout with subtle shadows
 
----
+### 📱 **Fully Responsive**
+- **Desktop**: Full navigation with multi-column layouts
+- **Tablet**: Adaptive grid layouts
+- **Mobile**: Stacked layouts with simplified navigation
+- Responsive breakpoints at 700px for optimal mobile experience
 
-## 🎓 Education
-- **Ph.D. in Mathematics**, Georgian Technical University (2023)
-- **M.Sc. in Applied Mathematics**, Georgian Technical University (2019)
-- **B.Sc. in Mathematics**, Ivane Javakhishvili Tbilisi State University (2017)
+### 🏦 **Banking Features**
+- **Account Overview**: Multiple account types (Total Available, Savings)
+- **Transaction History**: Detailed transaction list with categories
+- **Spending Analytics**: Real-time spending progress and insights
+- **Quick Actions**: Send Money, Pay Bills, Transfer, Download
+- **Notifications**: Real-time banking alerts
+- **Advanced Filtering**: Filter transactions by date, category, and amount
+- **User Profile**: Security settings and account management
 
----
+### 💰 **Real Transaction Data**
+- Connected to actual transaction history
+- Real spending calculations (₾1,212.30 total expenses)
+- Category-based spending analysis
+- Budget tracking with progress bars
+- Smart spending insights
 
-## 💼 Professional Experience
+## 🚀 Getting Started
 
-- **A. Razmadze Mathematical Institute of TSU**, Researcher (2022–present)
-- **International Black Sea University**, Invited Professor (2023)
-- **Georgian Technical University**, Invited Professor (2023)
-- **Kutaisi International University**, Professor’s Assistant (2020–2023)
-- **San Diego State University Georgia**, Teaching Assistant (2019–2021)
+### Prerequisites
+- Any modern web browser
+- No additional dependencies required
 
----
+### Installation
+1. Clone or download the project files
+2. Open `dashboard.html` in your web browser
+3. Navigate between Dashboard and Transactions pages
 
-## 🧠 What I Bring
+### File Structure
+```
+Banking Dashboard/
+├── dashboard.html          # Main dashboard page
+├── transactions.html       # Transaction history page
+├── style.css              # Shared stylesheet
+├── pngegg.png            # Bank logo
+├── acc_p.png             # User profile picture
+└── README.md             # This file
+```
 
-✅ Full pipeline ML & data projects with real deployment structure  
-✅ Strong backend & CLI logic (MySQL, OOP, export/reporting systems)  
-✅ Frontend JS (HTML5 Canvas game mechanics, player/enemy AI)  
-✅ 5+ years coding (Python, JavaScript, SQL) + teaching experience  
-✅ Clean, modular, and reusable code structure
+## 📋 Pages Overview
 
----
+### 🏠 Dashboard Page (`dashboard.html`)
+- **Account Cards**: Display account balances and status
+- **Money Spent Section**: Real-time spending analytics with progress bar
+- **Quick Actions**: Common banking functions
+- **Notifications**: Real-time alerts modal
+- **Theme Toggle**: Switch between light and dark modes
 
-## 🧰 Skills
+### 📊 Transactions Page (`transactions.html`)
+- **Transaction List**: Detailed transaction history with categories
+- **Filter System**: Advanced filtering by date, category, and amount
+- **Summary Cards**: Total income, expenses, and net balance
+- **Spending Chart**: Category-based spending visualization
+- **Export Functionality**: Download transaction data
 
-**Languages**: Python, JavaScript (Canvas/DOM), SQL, LaTeX  
-**ML & Data Tools**: scikit-learn, pandas, NumPy, matplotlib, seaborn  
-**Backend & DB**: MySQL, `mysql-connector`, `tabulate`, file I/O  
-**Tools & Workflow**: Git, GitHub, Jupyter, VS Code, Cursor, modular CLI design
+## 🎯 Key Features
 
----
+### 💳 **Account Management**
+- Multiple account types (Total Available, Savings)
+- Real-time balance display
+- Account status indicators
+- Masked account numbers for security
 
-## 📁 Featured Projects
+### 📈 **Spending Analytics**
+- Real transaction data integration
+- Progress bar showing budget usage
+- Category-based spending breakdown
+- Smart insights and recommendations
+- Monthly budget tracking
 
-### 🎮 Space Shooter Game (JavaScript + Canvas API)  
-A full 2D browser-based arcade game:
-- Player/enemy movement, bullets, scoring, and collision detection  
-- Boss fight mechanics with health bar and missile logic  
-- Pause/resume functionality and state tracking  
-> **Skills**: Game logic · DOM events · JS animations · Canvas API
+### 🔍 **Advanced Filtering**
+- Date range filtering (Today, Week, Month, etc.)
+- Category-based filtering
+- Amount range filtering
+- Real-time filter application
 
----
+### 🌙 **Theme System**
+- Light/Dark theme toggle
+- Consistent theming across all components
+- Smooth theme transitions
+- Professional color schemes
 
-### 📊 Salary Predictor (Python + ML + CLI)  
-A robust, modular machine learning pipeline:
-- Data loading, preprocessing, salary classification  
-- Trains & compares **18+ ML models** (regression & classification)  
-- Auto-visualisation of salary trends, company size, experience impact  
-- Interactive CLI for real-time salary prediction based on user input  
-> **Skills**: scikit-learn · matplotlib · modular ML app · CLI interfaces
+## 🛠️ Technical Details
 
----
+### **Pure HTML & CSS**
+- No JavaScript frameworks used
+- No CSS frameworks (Bootstrap, Tailwind, etc.)
+- Vanilla JavaScript for minimal interactivity
+- Semantic HTML5 structure
 
-### 👥 Employee Management System (Python + MySQL)  
-A terminal-based CRUD system for managing employees:
-- Add, update, delete, search, promote, export as `.sql`  
-- Auto-generates IDs, emails, phone numbers  
-- Exports data with schema, views, and stored procedures  
-> **Skills**: MySQL · Python DB API · data export · console UI · tabulate
+### **Responsive Design**
+```css
+@media (max-width: 700px) {
+    /* Mobile-specific styles */
+    .accounts-list { flex-direction: column; }
+    .navbar { flex-direction: column; }
+    .transaction-row { flex-direction: column; }
+}
+```
 
----
+### **Design System**
+- **Colors**: Professional blue theme (#1a237e, #3949ab)
+- **Typography**: Segoe UI font family
+- **Spacing**: Consistent padding and margins
+- **Components**: Reusable card, button, and modal styles
 
-### 🚗 Car Price Prediction (Python + ML)  
-A car price analyser using regression models:
-- Data preprocessing and feature engineering  
-- Regression modelling (Linear, Ridge, SVR, etc.)  
-- Visualisations for correlation, distribution, and feature impact  
-> **Skills**: pandas · scikit-learn · exploratory data analysis · regression
+## 📊 Transaction Data
 
----
+### **Real Spending Breakdown**
+- **Total Expenses**: ₾1,212.30
+- **Categories**: Groceries, Restaurant, Utilities, Transport, Shopping, Income
+- **Top Category**: Shopping (₾435.28)
+- **Budget**: ₾3,000 monthly budget
+- **Progress**: 40.4% spent (healthy spending)
 
-## 🌍 Languages & Communication
+### **Transaction Categories**
+- 🛒 **Groceries**: ₾192.12
+- 🍽️ **Restaurant**: ₾260.60
+- ⚡ **Utilities**: ₾189.81
+- 🚗 **Transport**: ₾65.50
+- 🛍️ **Shopping**: ₾435.28
+- 💸 **Income**: ₾2,450.00
 
-- **Georgian**: Native speaker  
-- **English**: Fluent  
-- **Russian**: Upper-intermediate (B2)
+## 🎨 Design Features
 
----
+### **Professional UI Elements**
+- Modern card-based layout
+- Subtle shadows and borders
+- Smooth hover animations
+- Professional iconography (Font Awesome)
+- Consistent spacing and typography
 
-## 🎯 Goals
+### **Interactive Components**
+- Clickable account cards
+- Hover effects on buttons
+- Modal dialogs for notifications
+- Dropdown menus for user profile
+- Theme toggle switch
 
-- Join a data analytics, data science, backend, or R&D team  
-- Build tools that connect research, code, and real-world insights  
-- Continue growing through collaborative open-source work  
-- Contribute to robust, explainable, and scalable systems  
+### **Accessibility**
+- Semantic HTML structure
+- Proper alt text for images
+- Keyboard navigation support
+- High contrast color schemes
+- Responsive text sizing
+
+## 🔧 Customization
+
+### **Changing Bank Name**
+Edit the `<h1>` tag in both HTML files:
+```html
+<h1>Your Bank Name</h1>
+```
+
+### **Updating Logo**
+Replace `pngegg.png` with your logo file and update the src attribute:
+```html
+<img src="your-logo.png" alt="Your Bank Logo" class="logo">
+```
+
+### **Modifying Colors**
+Update the CSS variables in `style.css`:
+```css
+:root {
+    --primary-color: #1a237e;
+    --secondary-color: #3949ab;
+    --accent-color: #00bcd4;
+}
+```
+
+## 📱 Browser Support
+
+- ✅ Chrome (latest)
+- ✅ Firefox (latest)
+- ✅ Safari (latest)
+- ✅ Edge (latest)
+- ✅ Mobile browsers
+
+## 🚀 Deployment
+
+### **Local Development**
+1. Download all project files
+2. Open `dashboard.html` in your browser
+3. Navigate between pages using the navigation bar
+
+### **Web Server Deployment**
+1. Upload all files to your web server
+2. Ensure `style.css` is in the same directory
+3. Access via `dashboard.html`
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test across different devices
+5. Submit a pull request
+
+## 📞 Support
+
+For questions or support, please open an issue in the repository.
