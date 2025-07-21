@@ -28,20 +28,20 @@ I'm a mathematician and researcher with 5+ years of hands-on programming experie
 
 ## 🧠 What I Bring
 
-✅ Full pipeline ML & data projects with real deployment structure  
-✅ Strong backend & CLI logic (MySQL, OOP, export/reporting systems)  
-✅ Frontend JS (HTML5 Canvas game mechanics, player/enemy AI)  
-✅ 5+ years coding (Python, JavaScript, SQL) + teaching experience  
-✅ Clean, modular, and reusable code structure
+✅ End-to-end ML & data solutions with clean modular pipelines and CLI interaction  
+✅ Robust backend logic with MySQL integration, reporting/export features, and structured OOP design  
+✅ Front-end interactivity using vanilla JavaScript, including HTML5 Canvas game engines and DOM UI control  
+✅ 5+ years of hands-on coding (Python, JS, SQL) combined with university-level teaching experience  
+✅ Clean, well-commented, and reusable codebases designed for clarity and scalability  
 
 ---
 
-## 🧰 Skills
+## 🧰 Technical Skills
 
-**Languages**: Python, JavaScript (Canvas/DOM), SQL, LaTeX  
-**ML & Data Tools**: scikit-learn, pandas, NumPy, matplotlib, seaborn  
-**Backend & DB**: MySQL, `mysql-connector`, `tabulate`, file I/O  
-**Tools & Workflow**: Git, GitHub, Jupyter, VS Code, Cursor, modular CLI design
+**Languages**: Python · JavaScript (Canvas, DOM) · SQL · LaTeX  
+**Machine Learning & Data**: scikit-learn · pandas · NumPy · matplotlib · seaborn  
+**Databases & Backend**: MySQL · `mysql-connector` · `tabulate` · file I/O  
+**Workflow & Tools**: Git · GitHub · VS Code · Jupyter Notebook · Cursor · modular CLI architecture
 
 ---
 
@@ -81,6 +81,27 @@ A car price analyser using regression models:
 - Regression modelling (Linear, Ridge, SVR, etc.)  
 - Visualisations for correlation, distribution, and feature impact  
 > **Skills**: pandas · scikit-learn · exploratory data analysis · regression
+
+---
+
+### 📚 Virtual Library System (JavaScript + Node.js)  
+A console-driven book lending and recommendation engine:  
+- Borrow/return flow with due dates, penalty points, and user history  
+- Recommends books by analysing genre preferences from borrowing patterns  
+- Search and filter functionality (by author, genre, rating, year)  
+- Includes analytics like top-rated and most-borrowed books  
+> **Skills**: JavaScript · data modeling · recommendation logic · CLI app  
+
+---
+
+### 💳 Responsive Banking Dashboard (HTML + CSS + JavaScript)  
+A responsive banking dashboard with real-time spending analytics:  
+- Dual-page app with **Dashboard** and **Transaction History** views  
+- Tracks income/expenses and auto-generates **category-based summaries**  
+- Dynamic **spending progress bar** and **budget insights** using real data  
+- Filter, export, and explore transactions with smart modals and charts  
+- Full **theme toggle**, dropdowns, alerts, and user interactions  
+> **Skills**: HTML5 · CSS3 · vanilla JavaScript · DOM manipulation · UX design · data analysis  
 
 ---
 
