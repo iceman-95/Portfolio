@@ -4,11 +4,12 @@
 ---
 
 ## 👋 About Me
-I’m a mathematician, researcher, and software/data developer with 5+ years of hands-on programming experience. I specialise in building **production-ready applications** using **Python** for machine learning, data analysis, backend systems, and CLI tools. While Python is my main language, I also work with **JavaScript**.
 
-In my academic research, I applied **advanced statistical and computational methods** to analyse complex datasets, build mathematical models, validate results through Python simulations, and present findings at conferences. These experiences directly translate to modern **data workflows**: data preprocessing, modelling, validation, and clear communication of insights.
+I’m a mathematician, researcher, and software/data enthusiast with 5+ years of hands-on programming experience. I specialise in building **production-ready applications** using **Python** for backend systems, machine learning prototypes, data analysis, and CLI tools. While Python is my primary language, I also work with **JavaScript**.
 
-I use **Cursor**, Git, and modular architecture to keep code structured, testable, and clean—allowing me to focus on **logic, usability, and design** while automating repetitive parts. Beyond technical skills, I’m a **curious, collaborative, and motivated learner** who enjoys solving real-world problems through code and adapting quickly to new environments.
+My academic research focused on **advanced mathematical modelling and rigorous problem-solving**, developing complex proofs, and tackling abstract theoretical challenges. These experiences strengthened my **analytical thinking, logical reasoning, and attention to detail**, which are highly relevant to modern **data workflows**: understanding structures, modeling relationships, and deriving insights.  
+
+I use **Cursor**, Git, and modular architecture to keep code structured, testable, and clean—allowing me to focus on **logic, usability, and design** while automating repetitive tasks. Beyond technical skills, I’m a **curious, collaborative, and motivated learner** who enjoys tackling challenging problems and adapting quickly to new environments.
 
 ---
 
@@ -21,28 +22,11 @@ I use **Cursor**, Git, and modular architecture to keep code structured, testabl
 
 ## 💼 Professional Experience
 
-### A. Razmadze Mathematical Institute of TSU — Researcher (07.2022–present)
-- Conduct advanced research in Analysis and Partial Differential Equations with applications to integral operators.  
-- Applied mathematical modelling and analytical techniques to study complex problems.   
-- Published findings and presented technical results at international conferences.
-
-### International Black Sea University — Invited Professor (02.2023-07.2023)
-- Delivered lectures and practical seminars to undergraduate students.  
-- Communicated with students to explain complex concepts and guide learning. 
-
-### Georgian Technical University — Invited Professor (02.2023-07.2023)
-- Delivered lectures and practical seminars in English to undergraduate students.  
-- Assisted students in understanding course material and developing analytical skills. 
-
-### Kutaisi International University — Professor’s Assistant (10.2020–07.2023)
-- Conducted practical exercises and assisted students in learning mathematical concepts.  
-- Supported students in **basic programming applications** relevant to math courses.  
-- Helped students develop problem-solving and computational thinking skills.  
-
-### San Diego State University Georgia — Teaching Assistant (01.2019–05.2021)
-- Assisted in multiple undergraduate mathematics courses across the curriculum.  
-- Guided students to strengthen their understanding of mathematical concepts.  
-- Supported faculty in course preparation and student mentoring.
+- **A. Razmadze Mathematical Institute of TSU** — Researcher (07.2022–present)
+- **International Black Sea University** — Invited Professor (02.2023-07.2023)
+- **Georgian Technical University** — Invited Professor (02.2023-07.2023)
+- **Kutaisi International University** — Professor’s Assistant (10.2020–07.2023)
+- **San Diego State University Georgia** — Teaching Assistant (01.2019–05.2021)
 
 ---
 
